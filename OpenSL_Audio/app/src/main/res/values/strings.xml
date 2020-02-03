@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KyOpenSLPCM</string>
+    <string name="playBtn" >Play</string>
+</resources>

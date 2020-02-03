@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomJNI</string>
+    <string name="create_thread">创建一般线程</string>
+    <string name="produceCustom">生产者和消费者</string>
+    <string name="cppUseJava">C++调用Java方法</string>
+</resources>
